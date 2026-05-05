@@ -18,7 +18,9 @@
 
 ### ⚙️ Built With
  Frontend: HTML, CSS, JavaScript
+
  Backend: Python + FastAPI
+
  Team: TIGDAM 💥
 
 ### 🚀 Why We Built This
@@ -36,3 +38,4 @@
  The system bot is watching 👀
 
 ### Built with bugs, fixes, and lots of debugging tears by TIGDAM 🐾
+## Hack. Break. Defend. Repeat. 🛡️💥
